@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=AndresUN1/Gemelos-DIgital-Regresion-no-lineal-Fernandez-21212153)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=AndresUN1/Gemelos-Digitales-Regresion-no-lineal-Fernandez-21212153)
 
 # Gemelos Digitales. Práctica 3: Regresion no lineal [Fernandez21212153]
 
